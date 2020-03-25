@@ -3,4 +3,17 @@ body{
     align-content: center;
     align-items: center;
     
+
+}
+
+.row{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+#output1{
+    font-size: 25px;
 }
