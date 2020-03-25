@@ -2,15 +2,17 @@ body{
     text-align: center;
     align-content: center;
     align-items: center;
+    padding: 10px;
     
 
 }
 
 .row{
-    align-items: center;
-    text-align: center;
+    position: relative;
     align-content: center;
-    align-items: center;
+    left: 175px;
+    
+    
 }
 
 
